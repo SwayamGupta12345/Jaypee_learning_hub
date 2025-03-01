@@ -32,7 +32,11 @@ If you find this helpful, please consider sharing it with your friends and class
 
 ### 📜 Repository Information
 This repository is a **link-only repository** to direct users to the platform. If you are interested in learning more about the code and development, please contact me directly.
-email swayamsam2005@gmail.com
+
+## Contact
+For any queries, feel free to reach out:
+
+- Email: [swayamsam2005@gmail.com](mailto:swayamsam2005@gmail.com)
 
 Thank you for your support! 😊
 
